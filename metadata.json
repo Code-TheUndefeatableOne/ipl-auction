@@ -1,0 +1,8 @@
+{
+  "name": "SOMUN International Auctioneer",
+  "description": "Live real-time SOMUN International auction podium interface for tracking live bids, dynamic team purses, roster management, CSV sync, and player verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
